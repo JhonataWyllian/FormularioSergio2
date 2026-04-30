@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b688ad;
+  margin: 0;
+}
+
+h1 {
+  color: rgb(40, 40, 40);
+  text-align: center;
+}
+
+main {
+    color: rgb(40, 40, 40);
+    text-align: center;
+}
+
+footer {
+    color: rgb(40, 40, 40);
+    text-align: center;
+}
+
+p {
+  color: rgb(40, 40, 40);
+  font-size: 16px;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+}
